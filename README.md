@@ -49,7 +49,7 @@ This project simulates weather dynamics over New Delhi using **live weather data
 
 ## 📊 Output Preview
 
-![Weather Simulation Output](./<insert-image-path-here>.png)
+![Weather Simulation Output](Sample.png)
 
 Legend:  
 - **Top Left**: Temperature + Wind vectors  
