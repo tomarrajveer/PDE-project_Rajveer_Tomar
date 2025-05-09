@@ -88,5 +88,5 @@ To save the animation:
 
 ## 🤝 Credits
 
-Developed by **[Your Name]**  
+Developed by **Rajveer Tomar**  
 Weather Data: [Open-Meteo.com](https://open-meteo.com)
